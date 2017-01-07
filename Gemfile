@@ -3,4 +3,5 @@ ruby '2.3.1'
 
 group :development do
   gem 'rspec'
+  gem 'pry'
 end

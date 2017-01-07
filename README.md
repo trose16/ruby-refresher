@@ -9,7 +9,7 @@ As usual, fork the repo - and get ready to revisit a dear old friend :smile:
 To run the specs, just run
 
 ~~~
-$ rspec questions_spec.rb
+$ rspec spec/questions_spec.rb
 ~~~
 
 **Quick tip**: to run a single example, change `it` to `fit` on that example, then run
@@ -37,5 +37,3 @@ Good luck
 * Don't forget Enumerable (advanced array methods)
 * Read the specs and the comments - if you're still confused, just ask.
 * Don't panic :wink:
-
-
